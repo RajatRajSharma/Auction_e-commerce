@@ -1,4 +1,4 @@
-# Auction_e-commerce
+# 🌐 Auction_e-commerce 🛒🛍️👨‍⚖
 
 Thrilled to reveal my latest coding journey – the **Auction_e-commerce Project!** 🌐💻
 Immerse yourself in the dynamic world of online auctions with this vibrant Django-powered website! 🛍️✨ Picture building your own eBay-like e-commerce platform as we delve into the fascinating realm of web development.
