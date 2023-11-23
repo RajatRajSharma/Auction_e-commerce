@@ -82,6 +82,9 @@ pyparsing
 python-dateutil
 python-json-logger
 pytz
+pywin32
+pywinpty
+PyYAML
 pyzmq
 qtconsole
 QtPy
@@ -89,7 +92,6 @@ referencing
 requests
 rfc3339-validator
 rfc3986-validator
-rpds-py
 scikit-learn
 scipy
 seaborn
