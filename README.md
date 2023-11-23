@@ -22,7 +22,7 @@ This web application allows you to perform the following actions:
 ## Screenshots
 
 ### Home Page
-![Home Page](Auction_e-commerce/auctions/CS50W_P2_home.png)
+![Home Page](auctions/CS50W_P2_home.png)
 
 ### Listed Item Detail
 ![Listed Item Detail](Auction_e-commerce/auctions/CS50W_P2_listing_item.png)
