@@ -1,4 +1,4 @@
-anyio==3.7.1
+aio==3.7.1
 apyori==1.1.2
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
@@ -82,4 +82,4 @@ pyparsing==3.1.1
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2023.3.post1
-pywin32==latest_version
+pywin32==2.4
