@@ -25,10 +25,10 @@ This web application allows you to perform the following actions:
 ![Home Page](auctions/CS50W_P2_home.png)
 
 ### Listed Item Detail
-![Listed Item Detail](Auction_e-commerce/auctions/CS50W_P2_listing_item.png)
+![Listed Item Detail](auctions/CS50W_P2_listing_item.png)
 
 ### Create New Item
-![Create New Item](Auction_e-commerce/auctions/CS50W_P2_create.png)
+![Create New Item](auctions/CS50W_P2_create.png)
 
 ## YouTube Tutorial
 
